@@ -243,8 +243,3 @@ class source(object):
             ss_pubs.extend(extract_ss(l, res_list, title_attrib, author_attrib, year_attrib, venue_attrib))
 
         return ss_pubs
-
-
-source = source('database', 'Kevin+Chang', 'University of Illinois')
-
-print(source.semanticscholar())
