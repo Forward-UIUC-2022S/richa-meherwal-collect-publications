@@ -1,4 +1,4 @@
-# meherwal-richa-collect-publications
+# richa-meherwal-collect-publications
 Code to collect publications matching a keyword, author or affiliation. Collects data by sending requests to publication databases APIs.
 
 [Click here for list of sources surveyed](https://docs.google.com/spreadsheets/d/18v4DyHw-1LIWCnyu05NFzqGjirpl0nutvFSXWB4xwzw/edit#gid=1627084748)
