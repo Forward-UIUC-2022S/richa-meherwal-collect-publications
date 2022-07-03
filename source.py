@@ -21,7 +21,7 @@ SCOPUS_QUERY_URL = 'https://api.elsevier.com/content/search/scopus?query='
 SEM_SCHOLAR_QUERY_URL = 'https://api.semanticscholar.org/graph/v1/paper/search?query='
 
 
-class source(object):
+class Source(object):
     """
     Initializes source object. Each method under this class calls the respective source.
 
